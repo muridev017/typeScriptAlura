@@ -1,5 +1,3 @@
-
-
 export abstract class View<T> {
 
     protected elemento: HTMLElement;
